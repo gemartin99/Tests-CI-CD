@@ -8,4 +8,4 @@ Ejecutar:
 Ejecutar el tester sobre la librería:
 ```./moulitest ./libalumno.so```
 
-Si ✅ Todas las pruebas pasaron correctamente significa que el proyecto se ha realizado correctamente.
+Si ✅ Todas las pruebas pasaron correctamente significa que la función se ha realizado correctamente.
